@@ -29,6 +29,8 @@
    regarding network testing and ethical hacking.
 */
 
+#include "Evil-Face.h"
+#include <Arduino.h>
 #include <M5Unified.h>
 #include <Avatar.h>
 #include <WiFi.h>
